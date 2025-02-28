@@ -1,0 +1,14 @@
+C:\Projects\ActivitiesDataStructure#1\TimeClass1\obj\Debug\net8.0\TimeClass1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ActivitiesDataStructure#1\TimeClass1\obj\Debug\net8.0\TimeClass1.AssemblyInfoInputs.cache
+C:\Projects\ActivitiesDataStructure#1\TimeClass1\obj\Debug\net8.0\TimeClass1.AssemblyInfo.cs
+C:\Projects\ActivitiesDataStructure#1\TimeClass1\obj\Debug\net8.0\TimeClass1.csproj.CoreCompileInputs.cache
+C:\Projects\ActivitiesDataStructure#1\TimeClass1\bin\Debug\net8.0\TimeClass1.exe
+C:\Projects\ActivitiesDataStructure#1\TimeClass1\bin\Debug\net8.0\TimeClass1.deps.json
+C:\Projects\ActivitiesDataStructure#1\TimeClass1\bin\Debug\net8.0\TimeClass1.runtimeconfig.json
+C:\Projects\ActivitiesDataStructure#1\TimeClass1\bin\Debug\net8.0\TimeClass1.dll
+C:\Projects\ActivitiesDataStructure#1\TimeClass1\bin\Debug\net8.0\TimeClass1.pdb
+C:\Projects\ActivitiesDataStructure#1\TimeClass1\obj\Debug\net8.0\TimeClass1.dll
+C:\Projects\ActivitiesDataStructure#1\TimeClass1\obj\Debug\net8.0\refint\TimeClass1.dll
+C:\Projects\ActivitiesDataStructure#1\TimeClass1\obj\Debug\net8.0\TimeClass1.pdb
+C:\Projects\ActivitiesDataStructure#1\TimeClass1\obj\Debug\net8.0\TimeClass1.genruntimeconfig.cache
+C:\Projects\ActivitiesDataStructure#1\TimeClass1\obj\Debug\net8.0\ref\TimeClass1.dll
