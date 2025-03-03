@@ -12,3 +12,4 @@ C:\Projects\ActivitiesDataStructure#1\TimeClass1\obj\Debug\net8.0\refint\TimeCla
 C:\Projects\ActivitiesDataStructure#1\TimeClass1\obj\Debug\net8.0\TimeClass1.pdb
 C:\Projects\ActivitiesDataStructure#1\TimeClass1\obj\Debug\net8.0\TimeClass1.genruntimeconfig.cache
 C:\Projects\ActivitiesDataStructure#1\TimeClass1\obj\Debug\net8.0\ref\TimeClass1.dll
+C:\Projects\ActivitiesDataStructure#1\TimeClass1\obj\Debug\net8.0\TimeClass1.sourcelink.json

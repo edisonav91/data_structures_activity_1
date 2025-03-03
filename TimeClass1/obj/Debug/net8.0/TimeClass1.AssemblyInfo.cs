@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TimeClass1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66c39318420b582d4d67d5dd7d7c2e0ad1082a50")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d02754441b649d1bdedaacf48aa8d71cdcba655d")]
 [assembly: System.Reflection.AssemblyProductAttribute("TimeClass1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TimeClass1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
